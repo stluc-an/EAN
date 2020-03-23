@@ -26,7 +26,10 @@
    5. Choississez un dossier en dehors du dossier de votre projet, dans lequel sauver le build
 
    6. Au final, vous aurez quelque chose comme ça
+
       ![image-20200323232710799](img/exportwin.png)
+
+      
       Tous les fichiers sont importants. Ne renommez ni n'effacez aucun fichier pour la remise
 
       

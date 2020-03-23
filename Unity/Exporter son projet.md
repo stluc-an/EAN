@@ -4,7 +4,7 @@
 
 1. **File → Build Settings**
 
-![image-20200323232100267](img\buildsettings.png)
+![image-20200323232100267](img/buildsettings.png)
 
 
 2. **C'est important d'ajouter une scène dans votre projet** ("Scenes in Build"). A priori pour le projet actuel vous n'avez qu'une seule scène (celle sur laquelle vous travaillez), vous pouvez donc cliquer sur "Add Open Scenes"
@@ -26,7 +26,7 @@
    5. Choississez un dossier en dehors du dossier de votre projet, dans lequel sauver le build
 
    6. Au final, vous aurez quelque chose comme ça
-      ![image-20200323232710799](img\exportwin.png)
+      ![image-20200323232710799](img/exportwin.png)
       Tous les fichiers sont importants. Ne renommez ni n'effacez aucun fichier pour la remise
 
       

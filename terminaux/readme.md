@@ -1,3 +1,4 @@
+# BROUILLON
 # Un terminal
 
 Le terminal, c'est cette fenêtre presque vide dans laquelle il faut écrire au clavier des commandes cabalistiques pour révéler ses pouvoirs secrets. 

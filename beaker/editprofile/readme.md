@@ -67,3 +67,16 @@ Le profil créé par défaut dans Beaker met la CSS directement dans l'HTML (c'e
 N'hésitez pas à vous inspirer de ce que j'ai commencé à faire sur mon profil (hyper://fdb55c1075137a3f86c6f6aee039c455f3962d17a48b03477d8b468f63dab56d/), c'est gratuit!
 La css, typos et images sont dans le dossier "assets"!
 
+---
+
+## PENSEZ-Y!
+- Ajoutez le lien vers votre Hyperdrive [sur le document partagé](https://pads.stluc.school/p/an1_2020_p2p)
+- Visitez les Hyperdrives de vos camarades, ajoutez-les comme contacts, et hébergez leurs profils. Plus on sera nombreux à partager, plus les drives de chacun.e.s seront accessibles.
+
+![hostplz.png](img\hostplz.png)
+
+
+- Puisque vous allez héberger les drives de vos camarades et qu'iels vont héberger les vôtres, soyez sobres. 
+    - changez toujours la taille de vos images dans Photoshop/Gimp/etc, pour éviter d'uploader des images en 4256x2832 pixels
+    - jouez avec la compression (on a parlé de JPG, mais aussi des PNG avec des palettes limitées), utilisez ça comme limitation technique pour explorer des esthétiques intéressantes ([inspirations ici](https://www.are.na/yannick-st-luc/esthetiques-low-tech)). Ça servira dans un travail à venir ;)
+- Votre profil est lié à votre machine. Si vous avez travaillé sur votre tour à la maison, mais que vous souhaitez me montrer votre travail en classe, n'hésitez pas à ajouter et "host" votre profil "tour" sur votre laptop, pour qu'il y soit aussi visible ;)

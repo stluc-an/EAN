@@ -12,7 +12,7 @@ Appropriez-vous cet espace, faites-en un endroit pour vous présenter, ou pour p
 
 **Dans tous les cas, la première étape** est d'accéder à votre profil. La façon la plus directe et de cliquer sur l'icône avec votre avatar, qui se trouve en haut à droite
 
-![profil.png](img\profil.png)
+![profil.png](img/profil.png)
 
 ---
 
@@ -22,7 +22,7 @@ Appropriez-vous cet espace, faites-en un endroit pour vous présenter, ou pour p
  
  Il suffit de cliquer sur l'icône Editor dans la barre de raccourcis
  
- ![editortopleft.png](img\editortopleft.png)
+ ![editortopleft.png](img/editortopleft.png)
 également accessible avec le raccourci CTRL-B (CMD-B sur Mac). 
 (B comme "Bditor" bien sûr...)
 
@@ -41,16 +41,16 @@ Il est possible d'y trouver d'autres fichiers, si vous avez utilisé des applica
 Avec l'éditeur ouvert (voir 1.), vous pouvez exporter le contenu de l'Hyperdrive.
 
 Cliquez droit dans un espace vide de la liste de fichiers, et sélectionnez "Export files"
-![exportfiles.png](img\exportfiles.png)
+![exportfiles.png](img/exportfiles.png)
 
 Exportez dans un dossier vide!
 
 Fermez l'éditeur (travailler dans l'éditeur + la synchro semble une mauvaise idée).
 
 Activez la synchronisation avec le dossier où vous avez téléchargé 
-![syncwithlocalfolder.png](img\syncwithlocalfolder.png)
+![syncwithlocalfolder.png](img/syncwithlocalfolder.png)
 et activez l'auto-synchronisation
-![startauto5.png](img\startauto5.png)
+![startauto5.png](img/startauto5.png)
 
 Maintenant, vous pouvez ouvrir ce dossier comme projet Beaker, et commencer à travailler! 
 

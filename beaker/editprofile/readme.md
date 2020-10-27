@@ -73,7 +73,7 @@ La css, typos et images sont dans le dossier "assets"!
 - Ajoutez le lien vers votre Hyperdrive [sur le document partagé](https://pads.stluc.school/p/an1_2020_p2p)
 - Visitez les Hyperdrives de vos camarades, ajoutez-les comme contacts, et hébergez leurs profils. Plus on sera nombreux à partager, plus les drives de chacun.e.s seront accessibles.
 
-![hostplz.png](img\hostplz.png)
+![hostplz.png](img/hostplz.png)
 
 
 - Puisque vous allez héberger les drives de vos camarades et qu'iels vont héberger les vôtres, soyez sobres. 

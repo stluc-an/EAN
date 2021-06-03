@@ -11,7 +11,7 @@ curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.
 (voir https://nodejs.org/en/download/package-manager/#macos)
 
 ### Windows (solution simple, mais...)
-J'ai pas toujours eu une bonne expérience avec node/npm sous Windows, donc j'ai tendance à à plutôt passer par la solution suivante (Windows via Linux). 
+J'ai pas toujours eu une bonne expérience avec node/npm sous Windows, donc j'ai tendance à plutôt passer par la solution suivante (Windows via Linux). 
 
 Mais si jamais :
 Passez par l'installeur disponible ici : https://nodejs.org/en/#home-downloadhead (la version "Current").

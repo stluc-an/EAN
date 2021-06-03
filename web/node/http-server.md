@@ -22,7 +22,7 @@ Installez le [Windows Terminal](https://aka.ms/terminal) (simple) ou [ConEmu](ht
 Cela installe un Linux minimal, accessible relativement facilement et bien intégré à Windows. Vous bénéficiez de tous les outils (en ligne de commande) disponibles sous Linux, et donc d'un environnement assez standard pour tout ce qui tourne autour des serveurs web et du développement en général.
 Seul désavantage : ça utilise un peu plus d'espace disque que d'installer directement Node.
 
-####Étape préalable : Installer Debian
+#### Étape préalable : Installer Debian
 C'est une version de Linux
 
 1. Dans le Microsoft Store, cherchez [Debian](https://www.microsoft.com/fr-fr/p/debian/9msvkqc78pk6).
@@ -36,16 +36,16 @@ C'est une version de Linux
 #### Étape confort : Installer un **bon** terminal
 Installez le [Windows Terminal](https://aka.ms/terminal) (simple) ou [ConEmu](https://conemu.github.io/) (plus avancé mais plus complexe) pour disposer d'un terminal plus agréable que celui installé par défaut sous Windows.
 
-    - Le **Windows Terminal** permet d'ouvrir Debian dans un nouvel onglet. 
-        - Vous pouvez également, dans les paramètres, sélectionner Debian comme "Profil par défaut"
+- Le **Windows Terminal** permet d'ouvrir Debian dans un nouvel onglet. 
+    - Vous pouvez également, dans les paramètres, sélectionner Debian comme "Profil par défaut"
 
-    - **ConEmu** permet d'ouvrir Debian dans un nouvel onglet (icône ➕ -> Bash -> Debian). 
-        - Dans les Settings -> Startup -> Tasks, vous pouvez sélectionner Bash comme "Default Task for new console".
-        - Vous pouvez ajouter la possibilité de lancer Debian à partir de l'Explorateur de Windows, en cliquant droit sur un dossier. Comment faire? 
-            - Settings de ConEmu -> Integration
-                - Menu item : par exemple `Debian ici!`
-                - Command: `-reuse -run {Bash::DEBIAN} -cur_console:n`
-                - Appuyez sur Register
+- **ConEmu** permet d'ouvrir Debian dans un nouvel onglet (icône ➕ -> Bash -> Debian). 
+    - Dans les Settings -> Startup -> Tasks, vous pouvez sélectionner Bash comme "Default Task for new console".
+    - Vous pouvez ajouter la possibilité de lancer Debian à partir de l'Explorateur de Windows, en cliquant droit sur un dossier. Comment faire? 
+        - Settings de ConEmu -> Integration
+            - Menu item : par exemple `Debian ici!`
+            - Command: `-reuse -run {Bash::DEBIAN} -cur_console:n`
+            - Appuyez sur Register
 
 #### Et enfin : Installer Node dans Debian
  Taper les commandes suivantes (une ligne à la fois, dans l'ordre).
